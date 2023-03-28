@@ -1,0 +1,34 @@
+nav ul{
+    list-style-type: none';
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(84, 16, 148)
+}
+ul p{
+    float: right;
+    font-family:'minecraft enchantment';
+    padding: 40px 30px;
+    background-color: rgb(38, 147, 197)
+}
+nav li{
+    float: left;
+
+}
+li a{
+    display: block;
+    font-family:'minecraft enchantment';
+    color:rgb(14, 8, 0);
+    background-color: blueviolet;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none; 
+}
+nav img{
+    height: 100px;
+    width: 200px;
+    display: block;
+    padding: 40px;
+    background-color: aquamarine;
+
+}
